@@ -1,0 +1,17 @@
+.header, .hero, .body, .footer, .five{
+    margin-bottom: 10px;
+    background-color: pink;
+}
+.box{
+    margin: 10px 0px;
+    background-color: #22B14C;
+    
+}
+p{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h5{
+    font-size: 14px;
+}
